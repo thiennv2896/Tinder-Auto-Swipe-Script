@@ -1,5 +1,5 @@
 # Tinder Auto Swipe Script :blue_heart:
-A small script for auto swipe "Love" for Tinder Android
+A small script for auto swipe :blue_heart: for Tinder Android
 
 # Let's go ! #
 
